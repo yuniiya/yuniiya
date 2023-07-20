@@ -1,7 +1,5 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=b8dc70&&fontColor=ffffff&text=Yunseo&nbsp;Lee&fontSize=70&animation=fadeIn&fontAlignY=55)
-
 ####  :sunny: Welcome to my github profile !
   
  <br/>
