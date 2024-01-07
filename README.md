@@ -1,6 +1,6 @@
 <div align="center">
   
-####  :sunny: Welcome to my github profile !
+###  :sunny: 게임 클라이언트 프로그래머를 꿈꾸는 이윤서 입니다!
   
  <br/>
  <br/>
