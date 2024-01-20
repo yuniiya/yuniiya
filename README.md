@@ -1,6 +1,6 @@
 <div align="center">
   
-##  :sunny: 게임 클라이언트 프로그래머를 꿈꾸는 이윤서 입니다! :sunny:
+##  :sunny: 게임 클라이언트 프로그래머를 꿈꾸는 이윤서입니다! :sunny:
   
  <br/>
  <br/>
