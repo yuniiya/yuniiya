@@ -1,6 +1,6 @@
 <div align="center">
   
-##  :sunny: 게임 클라이언트 프로그래머를 꿈꾸는 이윤서입니다! :sunny:
+##  :sunny: 게임 클라이언트 프로그래머 이윤서입니다! :sunny:
   
  <br/>
  <br/>
@@ -19,5 +19,8 @@
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@ysl5900/featured)](https://www.youtube.com/@ysl5900/featured)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joypen1267@gmail.com)](mailto:joypen1267@gmail.com)
 
-</div>
+   <br/>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joypen1267)](https://solved.ac/joypen1267/)
 
+</div>
